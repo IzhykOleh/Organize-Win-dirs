@@ -1,0 +1,10 @@
+C:\Program Files
+C:\temp
+C:\Windows
+
+##############
+
+height : 850
+l_justify : 600
+r_justify : 0
+between : 0
